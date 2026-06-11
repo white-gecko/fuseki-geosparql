@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DOCKER_IMAGE: ghcr.io/zazuko/fuseki-geosparql
+      DOCKER_IMAGE: ghcr.io/white-gecko/fuseki-geosparql
 
     steps:
       - name: Checkout
